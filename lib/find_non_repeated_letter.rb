@@ -9,5 +9,17 @@
 
 
 def find_first_non_repeated_letter(str)
-  #write your method here
+ #this is not finished but i wanted to show my work so far. I plan on finishing it.
+arr=str.split("")
+arr.first == arr[1]
+if true
+    x=arr.size-2
+        for arr in [1..x]
+            if x == x-1 or x+1
+        move to next element
+        if not then return value
+            
+arr.last == arr[-2]
+if true return nil
+    if false return value
 end
